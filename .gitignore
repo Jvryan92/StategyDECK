@@ -53,6 +53,9 @@ Thumbs.db
 *.backup
 README_old.md
 
+# Pre-commit
+.pre-commit-cache/
+
 # Generated assets (can be regenerated)
 # Uncomment if you don't want to commit generated assets
 # assets/icons/
