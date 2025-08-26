@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """Tests for the icon generation script."""
 
-import pytest
-import tempfile
-import shutil
-from pathlib import Path
-import sys
 import os
+import shutil
+import sys
+import tempfile
+from pathlib import Path
+
+import pytest
 
 # Add the scripts directory to the path
 sys.path.insert(0, str(Path(__file__).parent.parent / "scripts"))
 
-from generate_icons import pick_master, bake_svg, TOKENS, FINISH_COLORS
+from generate_icons import FINISH_COLORS, TOKENS, bake_svg, pick_master
 
 
 class TestIconGeneration:
