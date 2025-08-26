@@ -1,0 +1,13 @@
+Mode,Finish,Size (px),Context,Filename
+light,flat-orange,16,web,strategy_icon-light-flat-orange-16px.png
+light,flat-orange,32,web,strategy_icon-light-flat-orange-32px.png
+light,flat-orange,64,web,strategy_icon-light-flat-orange-64px.png
+light,matte-carbon,16,web,strategy_icon-light-matte-carbon-16px.png
+light,matte-carbon,32,web,strategy_icon-light-matte-carbon-32px.png
+light,matte-carbon,64,web,strategy_icon-light-matte-carbon-64px.png
+dark,satin-black,16,web,strategy_icon-dark-satin-black-16px.png
+dark,satin-black,32,web,strategy_icon-dark-satin-black-32px.png
+dark,satin-black,64,web,strategy_icon-dark-satin-black-64px.png
+dark,burnt-orange,16,web,strategy_icon-dark-burnt-orange-16px.png
+dark,burnt-orange,32,web,strategy_icon-dark-burnt-orange-32px.png
+dark,burnt-orange,64,web,strategy_icon-dark-burnt-orange-64px.png
