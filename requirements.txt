@@ -1,0 +1,15 @@
+# Core dependencies (always required)
+# Python 3.6+ standard library modules: pathlib, csv, json, argparse, logging
+
+# Optional dependencies for enhanced functionality
+# Uncomment the lines below if you want these features:
+
+# For PNG export from SVG files
+# cairosvg>=2.5.0
+
+# For GitHub integration and API calls
+# requests>=2.25.0
+
+# For development and testing
+# pytest>=6.0.0
+# pytest-cov>=2.10.0
